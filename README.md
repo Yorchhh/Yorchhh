@@ -1,8 +1,10 @@
-### Hi there 👋
+### Yorchhh
+- I like meet with my friends.
+- I love read books.
 
 <!--
 **Yorchhh/Yorchhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+/*
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
