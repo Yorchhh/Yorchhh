@@ -1,6 +1,6 @@
 # My name is Yorchhh!
 
-**I'm a fun and :tada:enjoyable guy. I am at the moment a student of the **[IES Itaca](https://www.e-itaca.es/"IES Itaca"):memo:**, in Zaragoza. I'm learning different programming languages to train myself and develop my skills.**:chart_with_upwards_trend:
+**I'm a fun and :tada:enjoyable guy. I am at the moment a student of the **[IES Itaca](https://www.e-itaca.es/):memo:**, in Zaragoza. I'm learning different programming languages to train myself and develop my skills.**:chart_with_upwards_trend:
 
 
 ##### Steve Jobs:bulb:
