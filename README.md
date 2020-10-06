@@ -13,6 +13,6 @@ ___
 - I like meet with my **friends**:beers::speech_balloon:.
 - I love read **books**.
 - I love listening to **music** all the time.
-- I do like** extreme sports**:fire::zap:.
+- I do like **extreme sports**:fire::zap:.
 
 
