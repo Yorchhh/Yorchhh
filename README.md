@@ -14,6 +14,6 @@ ___
 - I love read **books**.
 - I love listening to **music** all the time.
 - I do like **extreme sports**:fire::zap:.
-- **Contact me:**[LinkedIn Jorge Ortega Gargallo](https://www.linkedin.com/in/jorge-ortega-gargallo-508a26204)
+- **Contact me:** [LinkedIn Jorge Ortega Gargallo](https://www.linkedin.com/in/jorge-ortega-gargallo-508a26204)
 
 
